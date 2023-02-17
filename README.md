@@ -1,4 +1,4 @@
-# practica-3d
+# Pratica 3D de [INDI.ES](https://indi-es.com/discord)
 Repositorio de temas quincenales para la practica 3D de indi.es
 
 |Tema 	|Fecha   	|Usuario   	|
