@@ -20,4 +20,5 @@ Repositorio de temas quincenales para la practica 3D del servidor de Discord de 
 
 
 ## ¿Cómo sugerir un tema?
-##### Pendiente jeje
+---
+Pendiente jeje
