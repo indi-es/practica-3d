@@ -1,5 +1,5 @@
 # Pratica 3D de [INDI.ES](https://indi-es.com/discord)
-Repositorio de temas quincenales para la practica 3D de indi.es
+Repositorio de temas quincenales para la practica 3D del servidor de Discord de INDI.ES. 
 
 |Tema 	|Fecha   	|Usuario   	|
 |---	|---	|---	|
@@ -17,3 +17,7 @@ Repositorio de temas quincenales para la practica 3D de indi.es
 |   	|   	|   	|
 |   	|   	|   	|
 |   	|   	|   	|
+
+
+## ¿Cómo sugerir un tema?
+##### Pendiente jeje
