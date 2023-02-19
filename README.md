@@ -4,7 +4,7 @@ Repositorio de temas quincenales para la practica 3D del servidor de Discord de 
 |Tema 	|Fecha   	|Usuario   	|
 |---	|---	|---	|
 |Gato   	|1 de Marzo 2023   	|Antony y Squid   	|
-|Planta   	|16 de Marzo   	|Antony y Squid   	|
+|Planta   	|16 de Marzo 2023  	|Antony y Squid   	|
 |   	|   	|   	|
 |   	|   	|   	|
 |   	|   	|   	|
