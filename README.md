@@ -3,7 +3,7 @@ Repositorio de temas quincenales para la practica 3D del servidor de Discord de 
 
 |Tema 	|Fecha   	|Usuario   	|
 |---	|---	|---	|
-|Pendiente   	|1 de Marzo 2023   	|Antony y Squid   	|
+|Gato   	|1 de Marzo 2023   	|Antony y Squid   	|
 |   	|   	|   	|
 |   	|   	|   	|
 |   	|   	|   	|
@@ -21,4 +21,9 @@ Repositorio de temas quincenales para la practica 3D del servidor de Discord de 
 ---
 ## ¿Cómo sugerir un tema?
 
-Pendiente jeje
+Palabras que no se repitan. Como sugerencia, puedes seleccionar un tema global y hacerlo más pequeño. Por ejemplo: tema global "Animal", tema del mes "delfin". Los temas globales son:
+- Plantas
+- Animales
+- Planetas
+- Comida
+- Insectos
