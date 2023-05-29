@@ -9,7 +9,7 @@ Repositorio de temas quincenales para la practica 3D del servidor de Discord de 
 |Botella   	|16 de Abril 2023   	|Squid   	|
 |Frutas   	|1 de Mayo 2023   	|Antony   	|
 |Estatua   	|16 de Mayo 2023   	|Antony y Squid   	|
-|   	|   	|   	|
+|Robot   	|1 de Junio 2023   	|Antony y Squid   	|
 |   	|   	|   	|
 |   	|   	|   	|
 |   	|   	|   	|
